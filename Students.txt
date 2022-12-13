@@ -1,0 +1,146 @@
+6ddbf1c27b -- as -- 234 -- 22 -- A
+5e386910be -- a -- 22222 -- 22 -- A
+1b04f9f4f0 -- mohammed -- 0592745729 -- 20 -- A
+05ddc18752 -- mohammed -- 0592745729 -- 20 -- A
+c94879f699 -- asifn -- 12412412 -- 12 -- B
+ae656b7704 -- Abda -- 01234 -- 123 -- A
+8ca0e8307d -- Ab Ka -- 12345678 -- 33 -- A
+d4fd4fba25 -- mohammed -- 0592745729 -- 20 -- A
+b4fb499996 -- Monie -- 0123123213 -- 100 -- A
+54419860ce -- sdfsafasf -- 789456123 -- 55 -- A
+d136cd32d5 -- dd -- 32223 -- 3232 -- A
+5804540eb2 -- Rola Nab -- 0599123123 -- 32 -- A
+2e956b35dd -- mohammed -- 0592745729 -- 20 -- A
+b78ed31be2 -- mohammed -- 0592745729 -- 20 -- A
+869cc7b0fa -- qqq -- 2222 -- 11 -- B
+9093f6527e -- maha -- 44444 -- 44 -- B
+73f9f453c0 -- ddd -- 345 -- 55 -- C
+d204aa8b71 -- Wesam -- 96522 -- 88 -- A
+4483903b32 -- rolaa -- 1222222 -- 33 -- A
+7b58e67888 -- qqq -- 121 -- 11 -- B
+22a9c18eac -- mmm -- 5555 -- 55 -- C
+6b259e7d45 -- rrr -- 121212 -- 22 -- A
+63494b8645 -- rola11 -- 121212 -- 11 -- B
+38aff5ec32 -- Salsabeel Alhams -- 087535689 -- 23 -- A
+3c9f81033a -- Salsabeel Alhams -- 0596741356 -- 23 -- A
+337718ce84 -- Sara -- 973136 -- 43 -- C
+ba7a877e9f -- Ali -- 743 -- 66 -- A
+66bfc16dc6 -- dsd -- 32 -- 32 -- A
+e549d789f1 -- dasdaef -- 21231 -- 32 -- A
+9c960f45d3 -- sds -- 433 -- 32 -- A
+b96eabccb2 -- sd -- 3223 -- 43 -- A
+085bd58560 -- sdef -- 23434 -- 23 -- A
+0794ab3a22 -- dsfsdf -- 3234 -- 21 -- A
+7bdc488f79 -- sds -- 233243 -- 23 -- B
+27ef4a69a6 -- adw -- 3243 -- 32 -- B
+23f5749271 -- ds -- 1232 -- 2 -- A
+ed3ea4bc33 -- fd -- 234 -- 22 -- A
+161e16e5c8 -- dwed -- 343 -- 21 -- A
+79c4714bcd -- sada -- 2343 -- 23 -- B
+616fce8b29 -- dw3 -- 3234 -- 2 -- A
+fbac820404 -- DWEDW -- 32354 -- 32 -- A
+c44dc3af5b -- dsfw -- 243E -- 32 -- A
+d4c5e8b097 -- fewer -- 43454 -- 434 -- A
+e87c1a3577 -- sd -- 324 -- 21 -- A
+7ad20d147b -- fdwf -- dsf -- 32 -- A
+5b352a97ff -- dsdew -- 3243 -- 12 -- A
+f8aec61a6a -- ddcsf -- 32423 -- 21 -- A
+acbab81843 -- scascs -- 3243 -- 21 -- A
+30ec613150 -- dsdsf -- 3243 -- 32 -- A
+4bde9a9871 -- dfdf -- 3445 -- 2 -- A
+c1fce6ddfb -- dfdf -- 3445 -- 2 -- A
+afa4d52081 -- zzz -- 11111 -- 11 -- B
+1aa05311de -- rrr -- 23333 -- 33 -- B
+1c16f3c852 -- rola na11 -- 0523214214 -- 30 -- A
+c8fb607ab4 -- rolaaa -- 3332221 -- 12 -- B
+4b5624cdec -- rola na -- 0523214214 -- 20 -- A
+845dacda03 -- Lana -- 123456 -- 7 -- A
+7f78e25f7e -- ak -- 0599 -- 29 -- A
+1c25e8ce4c -- Noah Khashan -- 009705944589 -- 30 -- A
+b520f86e67 -- Enaam Sameer -- 009725930987 -- 23 -- A
+58693fcd0c -- Naemat Lehea -- 0097256873984 -- 20 -- A
+8904ed95b9 -- Ehssan Altawel -- 009705639828 -- 38 -- B
+c60b6e9c28 -- Jehan Aieed -- 009725677384 -- 20 -- C
+cd8f225e5e -- Issam Naeem -- 00972563874 -- 35 -- A
+3b0fe3a9ad -- Adam -- 0097059223576 -- 30 -- B
+64584ebb7d -- Noah Khashan -- 009705944589 -- 30 -- A
+5eeb4496b4 -- Noah Khashan -- 009705944589 -- 30 -- A
+0bd4c12361 -- kk;lp -- 765432 -- 98 -- A
+094b941b9c -- kjk -- 7543 -- 80 -- A
+963515431c -- kjj -- 86543 -- 76 -- A
+c84301f07c -- jjj -- 8765 -- 97 -- C
+995d00121a -- yyh -- 8764322 -- 99 -- A
+bddb8ae238 -- ggg -- 87299879 -- 88 -- A
+58081871b5 -- test -- 05999 -- 12 -- A
+fdc2e4d999 -- Zakaria New Test -- 0597244931 -- 66 -- B
+83c3606481 -- mm -- 059888 -- 22 -- B
+dee02232d2 -- malek -- 222 -- 21 -- A
+8adf74be12 -- Zakaria New -- 0597244988 -- 44 -- B
+db6133cea3 -- ahmed -- 05999 -- 22 -- A
+38ea70b388 -- ahmed -- 05999 -- 22 -- A
+084e6e1ad7 -- ahmed -- 05999 -- 22 -- A
+02a8e4f517 -- ahmed -- 05999 -- 22 -- A
+f755ec0ed0 -- malekH -- 555 -- 21 -- A
+cbcc352ae7 -- husam -- 5555555555 -- 26 -- A
+760c29fc17 -- husam -- 444444 -- 28 -- A
+350eb8d945 -- husam hammad -- 22244445558 -- 24 -- A
+6307111dc6 -- mohammed abunada -- 2125842233 -- 30 -- A
+4af603ec49 -- ccccccc -- 6 -- 3 -- A
+c904f7749e -- Zakaria -- 666666666 -- 77 -- B
+a9f280ee9b -- ggh -- 761 -- 66 -- A
+7f9a87df51 -- husam hammad -- 05554899825 -- 24 -- A
+401a43df52 -- hhfa -- 9431 -- 88 -- A
+a529f4a09d -- hhdd -- 88884 -- 855 -- C
+d4b675730f -- jjjgg -- 7633 -- 883 -- B
+fa683c616e -- Daa -- 904433 -- 30 -- A
+847fb53a3e -- Husam -- 555555555555 -- 25 -- A
+11b4bde465 -- husam hammad -- 000055555000 -- 25 -- A
+a12d5d9898 -- gggg -- 9933 -- 88 -- A
+ad07836f96 -- ddd -- 6543 -- 65 -- C
+f87b115db5 -- jj -- 873763 -- 44 -- A
+5c0c8c81ab -- Salsabeel -- 9725776112 -- 23 -- A
+6354f26404 -- Ali -- 972598762 -- 66 -- A
+c2d03e8a59 -- sss -- 223333 -- 22 -- A
+261511988f -- aa -- 223333 -- 22 -- A
+1eae09c6d9 -- rola na -- 0523214214 -- 20 -- A
+d54e444a67 -- ibrahim -- 598 -- 12 -- A
+9433725503 -- rola na -- 0523214214 -- 20 -- A
+e91ab77050 -- rola na -- 0523214214 -- 20 -- A
+4f21cc218a -- aaa -- 1 -- 1 -- A
+96b87ad64c -- b -- b -- 33 -- B
+f2ae1aee85 -- عبد -- 1234 -- 33 -- A
+cf17f0aeca -- zaqout2 -- 33 -- 33 -- A
+99f5876972 -- ffff -- 3344 -- 222 -- A
+2e8fbaa641 -- Abed zaqout -- 123456789 -- 44 -- B
+0b522ac41d -- malek -- 22 -- 21 -- A
+1cba076b5f -- husam -- 555555555555 -- 24 -- A
+0240426c3b -- ibrahim test1 -- 12412 -- 19 -- A
+76c95a6d13 -- Zakaria Omer -- 0597222553 -- 101 -- A
+598d31c512 -- ahmed -- 0599123456 -- 24 -- A
+2fe0c650c2 -- zzz -- 32323 -- 33 -- A
+ba14244ed0 -- ahmed -- 0599123456 -- 24 -- A
+40899727b1 -- mahmoud Ramadan -- 0599766992 -- 33 -- A
+6c0f499504 -- aa -- 223333 -- 22 -- A
+2d98109d2b -- ramii -- 1478523 -- 25 -- C
+85d03a92f7 -- 55 -- 666 -- 66 -- C
+cf289f87e9 -- Edit cli -- new no -- 23 -- B
+000bdd6c36 -- full_name 222 -- mobile_number -- 90 -- A
+cdcc59a38d -- 22 -- 22 -- 22 -- C
+2f371d3683 -- 11 -- 11 -- 11 -- C
+0da335184d -- 22 -- 22 -- 22 -- B
+96d91b54b7 -- rola na -- 0523214214 -- 20 -- A
+2e5ccc304d -- 55 -- 55 -- 55 -- C
+0cf2911446 -- 33 -- 33 -- 33 -- A
+6e274668ce -- 22 -- 22 -- 22 -- C
+5b2286cb88 -- lklkkjkjsad -- 56565656 -- 77 -- B
+b56024d9c1 -- mahmoud -- 0599 -- 25 -- B
+0b427e91ce -- full_name -- mobile_number -- 20 -- A
+11eaefdf44 -- hhhhhh -- 98989898132 -- 45 -- C
+96d620befe -- Ahmed -- 0599999999 -- 22 -- A
+d25426ba72 -- nnnn -- 789797979 -- 12 -- A
+74d4e72ce3 -- Mahmoud Elhelou -- 0599095477 -- 31 -- A
+ca57d51822 -- Test Student -- 78465 -- 23 -- C
+8a46fb7bbd -- Mohanadss -- 4521 -- 22 -- A
+778f8e424e -- full_name -- mobile_number -- 20 -- A
+3006fd5d61 -- Mahmood Haeoon -- 05995555555 -- 20 -- C
+7ea7876529 -- Mahmood Haeoon -- 05995555555 -- 20 -- C
